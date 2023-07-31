@@ -1,0 +1,184 @@
+6/2/2020 7:47:36 PM
+Votage = @ Volt
+Current = 214.90 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:38 PM
+Votage = @ Volt
+Current = 214.90 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:40 PM
+Votage = @ Volt
+Current = 214.90 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:42 PM
+Votage = @ Volt
+Current = 214.90 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:44 PM
+Votage = @ Volt
+Current = 214.90 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:46 PM
+Votage = @ Volt
+Current = 214.90 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:48 PM
+Votage = @ Volt
+Current = 214.80 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:50 PM
+Votage = @ Volt
+Current = 214.60 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:52 PM
+Votage = @ Volt
+Current = 214.80 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:54 PM
+Votage = @ Volt
+Current = 214.70 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:56 PM
+Votage = @ Volt
+Current = 214.60 Ampere
+Power = 0.00 Watt
+Energy = 0.00 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:47:58 PM
+Votage = @ Volt
+Current = 214.40 Ampere
+Power = 0.08 Watt
+Energy = 17.30 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:48:00 PM
+Votage = @ Volt
+Current = 214.50 Ampere
+Power = 0.08 Watt
+Energy = 17.20 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:48:03 PM
+Votage = @ Volt
+Current = 214.40 Ampere
+Power = 0.08 Watt
+Energy = 17.30 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:48:05 PM
+Votage = @ Volt
+Current = 214.40 Ampere
+Power = 0.08 Watt
+Energy = 17.30 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:48:07 PM
+Votage = @ Volt
+Current = 214.60 Ampere
+Power = 0.08 Watt
+Energy = 17.30 KWh
+Frequency = 0.022 Hz
+Power Factor = 50.0
+6/2/2020 7:54:09 PM
+Votage = 215.00 Volt
+Current = 0.00 Ampere
+Power = 0.00 Watt
+Energy = 0.023 KWh
+Frequency = 49.9 Hz
+Power Factor = 0.00
+
+6/2/2020 7:54:14 PM
+Votage = 215.30 Volt
+Current = 0.00 Ampere
+Power = 0.00 Watt
+Energy = 0.023 KWh
+Frequency = 49.9 Hz
+Power Factor = 0.00
+
+6/2/2020 7:54:20 PM
+Votage = 215.00 Volt
+Current = 0.08 Ampere
+Power = 17.30 Watt
+Energy = 0.023 KWh
+Frequency = 50.0 Hz
+Power Factor = 0.99
+
+6/2/2020 7:54:25 PM
+Votage = 215.10 Volt
+Current = 0.08 Ampere
+Power = 17.40 Watt
+Energy = 0.023 KWh
+Frequency = 50.0 Hz
+Power Factor = 1.00
+
+6/2/2020 7:54:30 PM
+Votage = 214.80 Volt
+Current = 0.16 Ampere
+Power = 33.00 Watt
+Energy = 0.023 KWh
+Frequency = 49.9 Hz
+Power Factor = 0.97
+
+6/2/2020 7:54:35 PM
+Votage = 215.00 Volt
+Current = 0.16 Ampere
+Power = 32.70 Watt
+Energy = 0.023 KWh
+Frequency = 50.0 Hz
+Power Factor = 0.97
+
+6/2/2020 7:54:40 PM
+Votage = 215.20 Volt
+Current = 0.15 Ampere
+Power = 32.50 Watt
+Energy = 0.023 KWh
+Frequency = 50.0 Hz
+Power Factor = 0.97
+
+6/2/2020 7:54:45 PM
+Votage = 214.90 Volt
+Current = 0.15 Ampere
+Power = 32.30 Watt
+Energy = 0.023 KWh
+Frequency = 50.0 Hz
+Power Factor = 0.98
+
+6/2/2020 7:54:50 PM
+Votage = 215.30 Volt
+Current = 0.08 Ampere
+Power = 14.80 Watt
+Energy = 0.023 KWh
+Frequency = 50.0 Hz
+Power Factor = 0.87
+

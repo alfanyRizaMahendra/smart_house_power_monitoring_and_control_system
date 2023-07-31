@@ -1,0 +1,14 @@
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\bin\Debug\Monitoring beban.exe.config
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\bin\Debug\Monitoring beban.exe
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\bin\Debug\Monitoring beban.pdb
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\bin\Debug\LBIndustrialCtrls.dll
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\obj\Debug\Monitoring beban.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\obj\Debug\Monitoring_beban.Form1.resources
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\obj\Debug\Monitoring_beban.Properties.Resources.resources
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\obj\Debug\Monitoring beban.csproj.GenerateResource.cache
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\obj\Debug\Monitoring beban.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\obj\Debug\Monitoring beban.csproj.CopyComplete
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\obj\Debug\Monitoring beban.exe
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\obj\Debug\Monitoring beban.pdb
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\bin\Debug\AquaGauge.dll
+D:\Kuliah\Semester 4\Workshop teknik antarmuka\Perc13 Final project\Monitoring beban\Monitoring beban\bin\Debug\Guna.UI2.dll
